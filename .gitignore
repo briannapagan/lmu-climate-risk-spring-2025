@@ -3,8 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-/intro-python/*solutions.ipynb
-/earth-energy-balance/*solutions.ipynb
+**/*solutions**
 
 # C extensions
 *.so
