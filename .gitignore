@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*solution.ipynb
+*solutions.ipynb
 *.pptx
+.DS_Store
 
 # C extensions
 *.so
