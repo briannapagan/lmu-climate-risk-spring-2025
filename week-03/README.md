@@ -8,6 +8,6 @@ We will be going over the following sections from Chapter 02: Basic Programing C
 You will be expected to follow along and 'live script' the examples in your own notebook. 
 
 ## Homework Assignment
-*Due: January 31st, 9am*
+*Due: February 7th, 9am*
 
-Under the 'earth-energy-balance' folder, complete the bare rock and one-layer atmospheric model python notebooks. Upload both completed notebooks to Brightspace by submission deadline. 
+TBD with what is finished in class
