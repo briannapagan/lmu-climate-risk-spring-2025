@@ -10,4 +10,4 @@ You will be expected to follow along and 'live script' the examples in your own 
 ## Homework Assignment
 *Due: February 14th, 9am*
 
-TBD with what is finished in class
+Review the week-04-homework-exercises notebook in this repository. Complete the assignment within this notebook and upload a copy of your final work to brightspace. 
